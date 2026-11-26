@@ -698,6 +698,5 @@ Constraint-based prompting was selected as the most suitable technique because i
 
 **RESULT:** The experiment was successfully executed using different prompting techniques in ChatGPT. The AI-generated responses were compared and evaluated, and constraint-based prompting was selected as the most suitable technique for solving the SMARTROAD AI engineering problem.
 
-```
 
 # RESULT: The prompt for the above said problem executed successfully
